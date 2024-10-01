@@ -56,6 +56,9 @@
 - **Streamlined Operational Workflows**: Optimizes detection processes, enhancing overall productivity.
 - **Adaptive Learning Mechanism**: Continuously refines detection algorithms based on emerging trends and feedback.
 
+## Where to use
+https://huggingface.co/spaces/samiee2213/traffitrack
+
 ## Getting Started
 To get started with **TraffiTrack**, follow the installation and setup instructions in the [INSTALL.md](./INSTALL.md) file.
 
