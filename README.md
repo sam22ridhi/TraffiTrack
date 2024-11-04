@@ -78,5 +78,3 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 We would like to acknowledge the contributions of various open-source libraries and communities that have made this project possible.
 
 ---
-
-Feel free to customize any part of the README according to your preferences!
