@@ -1,0 +1,13 @@
+streamlit
+langchain-community
+langchain-openai
+langchain-groq
+langchain-core
+langchain
+python-dotenv
+pandas
+plotly
+numpy
+regex
+streamlit_chat
+streamlit_option_menu
