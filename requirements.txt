@@ -12,3 +12,7 @@ regex
 streamlit_chat
 streamlit_option_menu
 matplotlib
+langchain-google-genai
+auth0-python 
+flask-auth0
+streamlit-auth0-component
